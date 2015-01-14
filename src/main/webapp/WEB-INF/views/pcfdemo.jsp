@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Green - Timothy Spann Pivotal Demo</title>
+<title>Jenkins - Green - Timothy Spann Pivotal Demo</title>
 <meta http-equiv="Cache-Control"
 	content="no-store, no-cache, must-revalidate, max-age=0">
 <link href="resources/css/retail.css" rel="stylesheet">
